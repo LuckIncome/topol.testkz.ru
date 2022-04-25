@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: https://topol.kz/
+Sitemap: https://topol.kz/sitemap.xml
